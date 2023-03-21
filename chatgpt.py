@@ -1,7 +1,7 @@
 import openai
 import random
 
-api= "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"
+api= "sk-"
 openai.api_key=api
 
 def about_summary(msg_list):
