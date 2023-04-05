@@ -4,6 +4,6 @@ emoji
 openai
 streamlit
 numpy
-plotly.graph_objects
+plotly
 wordcloud
 nltk
