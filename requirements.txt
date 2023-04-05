@@ -1,0 +1,9 @@
+textblob
+pandas
+emoji
+openai
+streamlit
+numpy
+plotly.graph_objects
+wordcloud
+nltk
